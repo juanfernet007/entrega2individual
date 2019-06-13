@@ -1,0 +1,26 @@
+{
+  "name": "segundaentrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.hbs",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfernet007/entrega2individual.git"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfernet007/entrega2individual/issues"
+  },
+  "homepage": "https://github.com/juanfernet007/entrega2individual#readme"
+}
